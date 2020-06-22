@@ -1,0 +1,21 @@
+
+=================== Release 00359 ================================
+This Release Notes file covers these blobs:
+ * libqtisec.a
+
+Version : 00015	
+
+Release Date : May 14, 2020
+
+Supported Silicon : SC7180
+
+Library will be used for TF-A compilation for SC7180.
+binary is passed as QTISECLIB_PATH=<path with filename of qtisec lib> in TF-A compilation
+
+Changes since last version :
+ * Perform SoC
+ * PSCI Initialization
+ * INterrupt registrartion and handling
+
+Errata : Nothing to report
+
