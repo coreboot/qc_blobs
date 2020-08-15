@@ -1,9 +1,22 @@
-
-=================== Release 00359 ================================
+=================== Release 00023 ================================
 This Release Notes file covers these blobs:
  * libqtisec.a
 
-Version : 00015	
+Version : 00023
+
+Release Date : Aug 15, 2020
+
+Changes since last version :
+ * Boot up enhancement
+ * lazor support
+ * SSD Configuration for QDSS ETR
+ * Fix for Fatal Error on modem ping
+ * RNG Driver movement to trustedfirmware.org using https://review.trustedfirmware.org/4885
+ * MMAP API usage limited to debug flavor
+
+=================== Release 00015 ================================
+
+Version : 00015
 
 Release Date : May 14, 2020
 
@@ -15,7 +28,6 @@ binary is passed as QTISECLIB_PATH=<path with filename of qtisec lib> in TF-A co
 Changes since last version :
  * Perform SoC
  * PSCI Initialization
- * INterrupt registrartion and handling
+ * Interrupt registrartion and handling
 
 Errata : Nothing to report
-
