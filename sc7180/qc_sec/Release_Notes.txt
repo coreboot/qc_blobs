@@ -1,8 +1,15 @@
-
-=================== Release 00359 ================================
+=================== Release 00010 ================================
 This Release Notes file covers these blobs:
  * qc_sec.mbn
 
+Version : 00010
+
+Release Date : September 09, 2020
+
+Changes since last version :
+ * tool upgrade to generate image
+
+=================== Release 00008 ================================
 Version : 00008
 
 Release Date : May 27, 2020
