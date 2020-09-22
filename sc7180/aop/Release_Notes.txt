@@ -1,8 +1,18 @@
-=================== Release 50  ================================
+================== Release 59  ================================
 This Release Notes file covers these blobs:
  * aop.mbn
  * AOP_AAAAANAZO.elf
 
+Version : 000059
+
+Release Date : September, 2020
+
+Supported Silicon : SC7180
+
+Changes since last version:
+ *Fixes for different pmic rail related issues
+
+=================== Release 50  =================================
 Version : 000050
 
 Release Date : March, 2020
