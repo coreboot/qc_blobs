@@ -1,3 +1,14 @@
+=================== Release 00013 ================================
+This Release Notes file covers these blobs:
+ * qc_sec.mbn
+
+Version : 00013
+
+Release Date : November 03, 2020
+
+Changes since last version :
+ * Modem protection based on LTE and WLAN Flavour
+
 =================== Release 00010 ================================
 This Release Notes file covers these blobs:
  * qc_sec.mbn
