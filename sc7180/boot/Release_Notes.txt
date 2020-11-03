@@ -1,12 +1,10 @@
-=================== Release 00020 ================================
+=================== Release 00022 ================================
 This Release Notes file covers these blobs:
- * dcb.bin
- * Pmic.bin
  * QcLib.elf
 
-Version : 00020
+Version : 00022
 
-Release Date : September 21, 2020
+Release Date : November 03, 2020
 
 Supported Silicon : SC7180
 
@@ -14,11 +12,8 @@ No special instructions, requirements or dependencies, files must be
 present in this folder to be pulled in during coreboot build
 
 Changes since last version :
- * Boot time profiling optimizations in QCLib
- * PMIC config changes for display
- * GPIO config changes
- * LLVM toolchain upgrade
- * clock fixes in QCLib
+ * Remove Limitsisense library in QCLib
+ * MBA vulnerability fixes
   
 
 Errata : Nothing to report
