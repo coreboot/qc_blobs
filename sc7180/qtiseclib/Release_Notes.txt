@@ -1,3 +1,17 @@
+=================== Release 00026 ================================
+This Release Notes file covers these blobs:
+ * libqtisec.a
+
+Version : 00026
+
+Release Date : Nov 23, 2020
+
+Changes since last version :
+ * Speedbin Speedbin SKU support (2.5 GHz)
+ * avoiding aligned access
+
+=================== Release 00026 ================================
+
 =================== Release 00023 ================================
 This Release Notes file covers these blobs:
  * libqtisec.a
