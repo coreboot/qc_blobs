@@ -1,3 +1,26 @@
+=================== Release 00029 ================================
+This Release Notes file covers these blobs:
+ * QcLib.elf
+
+Version : 00029
+
+Release Date : December Aug, 2021
+
+Supported Silicon : SC7180
+
+No special instructions, requirements or dependencies, files must be
+present in this folder to be pulled in during coreboot build
+
+Changes since last version :
+ *  Remove IPA scaling and proxy voting from Boot
+ *  SMMU invalidation failure fix
+
+Errata : Nothing to report
+
+Toolchain Version : LLVM 10.0.0
+
+ABI Info : see qclib-interface.txt
+
 =================== Release 00024 ================================
 This Release Notes file covers these blobs:
  * QcLib.elf
