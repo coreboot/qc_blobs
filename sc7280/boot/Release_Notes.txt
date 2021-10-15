@@ -1,3 +1,25 @@
+================== Release 00016  ================================
+This Release Notes file covers these blobs:
+ * dcb.bin
+ * Pmic.bin
+ * QcLib.elf
+
+Version : 00016
+
+Release Date : Oct, 2021
+
+Supported Silicon : SC7280
+
+Changes since last version:
+ * Full DDR one time training Enabled
+
+Above Bins were used to generate coreboot image.
+
+No special instructions, requirements or dependencies, files must be
+present in this folder to be pulled in during coreboot build
+
+Errata : Nothing to report
+
 ================== Release 00013  ================================
 This Release Notes file covers these blobs:
  * dcb.bin
@@ -12,7 +34,7 @@ Supported Silicon : SC7280
 
 Changes since last version:
  * WA Remove Pll training in DDR training (Fix Re-enable in Future)
- * Qclib changes porting as per trogdor
+ * Qclib changes porting as per traogdor
 
 Above Bins were used to generate coreboot image.
 
@@ -20,6 +42,7 @@ No special instructions, requirements or dependencies, files must be
 present in this folder to be pulled in during coreboot build
 
 Errata : Nothing to report
+
 ================== Release 741  ================================
 This Release Notes file covers these blobs:
  * dcb.bin
