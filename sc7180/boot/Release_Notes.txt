@@ -1,3 +1,26 @@
+=================== Release 00042 ================================
+This Release Notes file covers these blobs:
+ * QcLib.elf
+ * dcb.bin
+
+Version : 00042
+
+Release Date : Apr, 2022
+
+Supported Silicon : SC7180
+
+No special instructions, requirements or dependencies, files must be
+present in this folder to be pulled in during coreboot build
+
+Changes since last version :
+ *  Basetools to update for python3
+
+Errata : Nothing to report
+
+Toolchain Version : LLVM 12.0.0
+
+ABI Info : see qclib-interface.txt
+
 =================== Release 00037 ================================
 This Release Notes file covers these blobs:
  * QcLib.elf
