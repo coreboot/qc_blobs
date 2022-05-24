@@ -1,3 +1,14 @@
+=================== Release 00063 ================================
+This Release Notes file covers these blobs:
+ * libqtisec.a
+
+Version : 00063
+
+Release Date : May 18, 2022
+
+Changes since last version :
+ * Hexacore update to cpucp and Sysini
+ * IPA SMMU configuration fixes
 =================== Release 00061 ================================
 This Release Notes file covers these blobs:
  * libqtisec.a
