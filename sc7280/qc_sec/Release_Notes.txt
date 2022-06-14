@@ -1,3 +1,13 @@
+=================== Release 00027 ================================
+This Release Notes file covers these blobs:
+ * qc_sec.mbn
+
+Version : 00027
+
+Release Date : November 17, 2021
+
+Changes since last version :
+ * AC Policy update
 =================== Release 00024 ================================
 This Release Notes file covers these blobs:
  * qc_sec.mbn
