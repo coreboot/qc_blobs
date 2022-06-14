@@ -1,3 +1,16 @@
+=================== Release 00050 ================================
+This Release Notes file covers these blobs:
+ * libqtisec.a
+
+Version : 00050
+
+Release Date : Nov 24, 2021
+
+Changes since last version :
+ * OSM Sequencer Update
+ * Voltage plan Update
+ * NOC Debug Improvement
+
 =================== Release 00044 ================================
 This Release Notes file covers these blobs:
  * libqtisec.a
