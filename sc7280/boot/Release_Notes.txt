@@ -1,3 +1,27 @@
+================== Release 00035  ================================
+This Release Notes file covers these blobs:
+ * dcb.bin
+ * Pmic.bin
+ * QcLib.elf
+
+Version : 00035
+
+Release Date : July,2022
+
+Supported Silicon : SC7280
+
+Changes since last version:
+ * LLVM upgrade to support chroot building
+ * SecoJr PMIC Support for Herobrine
+ * Qdutt tool support for Chrome
+
+Above Bins were used to generate coreboot image.
+
+No special instructions, requirements or dependencies, files must be
+present in this folder to be pulled in during coreboot build
+
+Errata : Nothing to report
+
 ================== Release 00030  ================================
 This Release Notes file covers these blobs:
  * dcb.bin
