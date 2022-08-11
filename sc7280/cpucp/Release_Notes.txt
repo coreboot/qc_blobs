@@ -1,3 +1,28 @@
+================== Release 063  ================================
+This Release Notes file covers these blobs:
+ * cpucp.elf
+
+Version : 00063
+
+Release Date : June, 2022
+
+Supported Silicon : SC7280
+
+Changes since last version:
+ * Populate cpumask in shared data structure
+ * Read PMU counters if cpu is present by reading SW fuse
+ * Generalized core count logic, CPR thread disable
+ * Restricting bcl mitigations to svs_l1
+
+cpucp.elf is used for dcvs functionality.
+
+cpucp CRM63 will go with qtiseclib CRM62 or above.
+
+No requirements or dependencies, files must be
+present in this folder to be pulled in during coreboot build
+
+Errata : Nothing to report
+
 ================== Release 060  ================================
 This Release Notes file covers these blobs:
  * cpucp.elf
