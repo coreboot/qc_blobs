@@ -1,3 +1,25 @@
+=================== Release 00050 ================================
+This Release Notes file covers these blobs:
+ * QcLib.elf
+
+Version : 00050
+
+Release Date : Sept, 2022
+
+Supported Silicon : SC7180
+
+No special instructions, requirements or dependencies, files must be
+present in this folder to be pulled in during coreboot build
+
+Changes since last version :
+ *  Fix for DDR training failure with warmboot over OTA
+
+Errata : Nothing to report
+
+Toolchain Version : LLVM 12.0.0
+
+ABI Info : see qclib-interface.txt
+
 =================== Release 00048 ================================
 This Release Notes file covers these blobs:
  * QcLib.elf
