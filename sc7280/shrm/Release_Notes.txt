@@ -1,3 +1,26 @@
+================== Release 00052  ================================
+This Release Notes file covers these blobs:
+ * shrm.elf
+
+Version : 00052
+
+Release Date : Feb,2023
+
+Supported Silicon : SC7280
+
+Changes since last version:
+ * HW SHA usage for DDR calibration
+ * qclib_set.py tool to support chroot Qclib building
+ * Skip PBS RAM load/verify during Warm Reset to improve BOOT KPI
+ * Revert recovery feature for INT Lockup
+ 
+Above Bins were used to generate coreboot image.
+
+No special instructions, requirements or dependencies, files must be
+present in this folder to be pulled in during coreboot build
+
+Errata : Nothing to report
+
 ================== Release 00035  ================================
 This Release Notes file covers these blobs:
  * shrm.elf
