@@ -2,6 +2,26 @@
 This Release Notes file covers these blobs:
  * libqtisec.a
 
+Version : 00069
+
+Release Date : Oct 14, 2022
+
+Supported Silicon : SC7180
+
+Changes since last version :
+ * code optimization in sysini
+ * static analysis fixes
+ * NOC error scripts
+ * AC fix for longsys
+
+No special instructions, requirements or dependencies, files must be
+present in this folder to be pulled in during coreboot build
+
+Errata : Nothing to report
+=================== Release 00050 ================================
+This Release Notes file covers these blobs:
+ * libqtisec.a
+
 Version : 00050
 
 Release Date : Nov 24, 2021
