@@ -1,4 +1,21 @@
-=================== Release 00050 ================================
+=================== Release 00071 ================================
+This Release Notes file covers these blobs:
+ * libqtisec.a
+
+Version : 00071
+
+Release Date : June 26, 2024
+
+Supported Silicon : SC7180
+
+Changes since last version :
+ * Support for ACR and NSACR in SMMU
+
+No special instructions, requirements or dependencies, files must be
+present in this folder to be pulled in during coreboot build
+
+Errata : Nothing to report
+=================== Release 00069 ================================
 This Release Notes file covers these blobs:
  * libqtisec.a
 
